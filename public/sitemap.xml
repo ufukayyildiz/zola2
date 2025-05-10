@@ -1,208 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://replace-this-with-your-url.com/</loc>
+        <loc>https://zola2.pages.dev/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/2018/</loc>
+        <loc>https://zola2.pages.dev/2018/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/a-fixed-url/</loc>
+        <loc>https://zola2.pages.dev/a-fixed-url/</loc>
         <lastmod>2017-02-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/applying_page_template/</loc>
+        <loc>https://zola2.pages.dev/applying_page_template/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/applying_page_template/another_section/</loc>
+        <loc>https://zola2.pages.dev/applying_page_template/another_section/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/applying_page_template/another_section/post/</loc>
+        <loc>https://zola2.pages.dev/applying_page_template/another_section/post/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/applying_page_template/from-section-config/</loc>
+        <loc>https://zola2.pages.dev/applying_page_template/from-section-config/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/applying_page_template/override/</loc>
+        <loc>https://zola2.pages.dev/applying_page_template/override/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/applying_page_template/yet_another_section/</loc>
+        <loc>https://zola2.pages.dev/applying_page_template/yet_another_section/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/applying_page_template/yet_another_section/post/</loc>
+        <loc>https://zola2.pages.dev/applying_page_template/yet_another_section/post/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/categories/</loc>
+        <loc>https://zola2.pages.dev/categories/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/categories/a-category/</loc>
+        <loc>https://zola2.pages.dev/categories/a-category/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/colocated-assets/</loc>
+        <loc>https://zola2.pages.dev/colocated-assets/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/colocated-assets/with_subfolder/</loc>
+        <loc>https://zola2.pages.dev/colocated-assets/with_subfolder/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/hello/</loc>
+        <loc>https://zola2.pages.dev/hello/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/paginated/</loc>
+        <loc>https://zola2.pages.dev/paginated/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/podcast-authors/</loc>
+        <loc>https://zola2.pages.dev/podcast-authors/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/podcast-authors/some-person/</loc>
+        <loc>https://zola2.pages.dev/podcast-authors/some-person/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/</loc>
+        <loc>https://zola2.pages.dev/posts/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/2018/transparent-page/</loc>
+        <loc>https://zola2.pages.dev/posts/2018/transparent-page/</loc>
         <lastmod>2018-10-10</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/a-post-with-dates/</loc>
+        <loc>https://zola2.pages.dev/posts/a-post-with-dates/</loc>
         <lastmod>2016-10-08</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/extra-syntax/</loc>
+        <loc>https://zola2.pages.dev/posts/extra-syntax/</loc>
         <lastmod>2018-08-14</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/no-section/simple/</loc>
+        <loc>https://zola2.pages.dev/posts/no-section/simple/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/page/1/</loc>
+        <loc>https://zola2.pages.dev/posts/page/1/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/page/2/</loc>
+        <loc>https://zola2.pages.dev/posts/page/2/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/page/3/</loc>
+        <loc>https://zola2.pages.dev/posts/page/3/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/page/4/</loc>
+        <loc>https://zola2.pages.dev/posts/page/4/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/page/5/</loc>
+        <loc>https://zola2.pages.dev/posts/page/5/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/python/</loc>
+        <loc>https://zola2.pages.dev/posts/python/</loc>
         <lastmod>2017-03-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/simple/</loc>
+        <loc>https://zola2.pages.dev/posts/simple/</loc>
         <lastmod>2017-04-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/skip-prefixes/</loc>
+        <loc>https://zola2.pages.dev/posts/skip-prefixes/</loc>
         <lastmod>2017-01-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/something-else/</loc>
+        <loc>https://zola2.pages.dev/posts/something-else/</loc>
         <lastmod>2017-01-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/top-level-alias/</loc>
+        <loc>https://zola2.pages.dev/posts/top-level-alias/</loc>
         <lastmod>2017-01-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/tutorials/</loc>
+        <loc>https://zola2.pages.dev/posts/tutorials/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/tutorials/devops/</loc>
+        <loc>https://zola2.pages.dev/posts/tutorials/devops/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/tutorials/devops/docker/</loc>
+        <loc>https://zola2.pages.dev/posts/tutorials/devops/docker/</loc>
         <lastmod>2017-01-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/tutorials/devops/nix/</loc>
+        <loc>https://zola2.pages.dev/posts/tutorials/devops/nix/</loc>
         <lastmod>2017-01-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/tutorials/programming/</loc>
+        <loc>https://zola2.pages.dev/posts/tutorials/programming/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/tutorials/programming/python/</loc>
+        <loc>https://zola2.pages.dev/posts/tutorials/programming/python/</loc>
         <lastmod>2017-01-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/tutorials/programming/rust/</loc>
+        <loc>https://zola2.pages.dev/posts/tutorials/programming/rust/</loc>
         <lastmod>2017-01-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/posts/with-assets/</loc>
+        <loc>https://zola2.pages.dev/posts/with-assets/</loc>
         <lastmod>2015-03-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/rebuild/</loc>
+        <loc>https://zola2.pages.dev/rebuild/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/rebuild/first/</loc>
+        <loc>https://zola2.pages.dev/rebuild/first/</loc>
         <lastmod>2017-01-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/rebuild/page/1/</loc>
+        <loc>https://zola2.pages.dev/rebuild/page/1/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/rebuild/page/2/</loc>
+        <loc>https://zola2.pages.dev/rebuild/page/2/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/rebuild/second/</loc>
+        <loc>https://zola2.pages.dev/rebuild/second/</loc>
         <lastmod>2016-01-01</lastmod>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/1/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/1/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/2/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/2/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/3/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/3/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/4/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/4/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/5/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/5/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/6/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/6/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/7/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/7/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/8/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/8/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/9/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/9/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/page/1/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/page/1/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/page/2/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/page/2/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/page/3/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/page/3/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/page/4/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/page/4/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/reverse-paginated/page/5/</loc>
+        <loc>https://zola2.pages.dev/reverse-paginated/page/5/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/root-page-1/</loc>
+        <loc>https://zola2.pages.dev/root-page-1/</loc>
     </url>
     <url>
-        <loc>https://replace-this-with-your-url.com/root-page-2/</loc>
+        <loc>https://zola2.pages.dev/root-page-2/</loc>
     </url>
 </urlset>
