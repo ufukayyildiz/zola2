@@ -1,6 +1,8 @@
 # The URL the site will be built for
 base_url = "https://f601e2a2.zola2.pages.dev/"
 
+theme = "neovim-theme"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
