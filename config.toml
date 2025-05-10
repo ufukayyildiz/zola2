@@ -4,8 +4,6 @@ custom_css = "style.css"
 # The URL the site will be built for
 base_url = "https://zola2.pages.dev/"
 
-theme = "neovim-theme"
-
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
