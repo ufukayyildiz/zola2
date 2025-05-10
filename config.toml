@@ -2,7 +2,7 @@ title = "My Integration Testing site"
 base_url = "zola2.pages.dev"
 compile_sass = true
 generate_feeds = true
-theme = "sample"
+theme = "neovim"
 
 taxonomies = [
     {name = "categories", feed = true},
