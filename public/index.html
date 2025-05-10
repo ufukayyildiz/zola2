@@ -1,43 +1,55 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
     <head>
-        <title>Zola</title>
+        <meta charset="UTF-8">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="Vincent Prouillet">
+        <link href="https://fonts.googleapis.com/css?family=Fira+Mono|Fira+Sans|Merriweather" rel="stylesheet">
+        <link href="https://replace-this-with-your-url.com/site.css?h=83bd983e8899946ee33d" rel="stylesheet">
+        <title>My Integration Testing site</title>
     </head>
+
     <body>
-        <div class="container">
-            <h1>Welcome to Zola!</h1>
-            <p>
-                You're seeing this page because we couldn't find a template to render.
-            </p>
-            <p>
-                To modify this page, create a <b>index.html</b> file in the templates directory or
-                <a href="https://www.getzola.org/documentation/themes/installing-and-using-themes/" target="_blank">install a theme</a>.
-                <br>
-                You can find what variables are available in this template in the <a href="https:&#x2F;&#x2F;www.getzola.org&#x2F;documentation&#x2F;templates&#x2F;pages-sections&#x2F;#section-variables" target="_blank">documentation</a>.
-            </p>
+        <div class="content">
+        
+    <div class="list-posts">
+        
+            <article>
+                <h3 class="post__title"><a href="https:&#x2F;&#x2F;replace-this-with-your-url.com&#x2F;colocated-assets&#x2F;">Assets in root content directory</a></h3>
+            </article>
+        
+            <article>
+                <h3 class="post__title"><a href="https:&#x2F;&#x2F;replace-this-with-your-url.com&#x2F;2018&#x2F;">index page in a direction with the same name as a section</a></h3>
+            </article>
+        
+            <article>
+                <h3 class="post__title"><a href="https:&#x2F;&#x2F;replace-this-with-your-url.com&#x2F;hello&#x2F;"></a></h3>
+            </article>
+        
+            <article>
+                <h3 class="post__title"><a href="https:&#x2F;&#x2F;replace-this-with-your-url.com&#x2F;root-page-2&#x2F;"></a></h3>
+            </article>
+        
+            <article>
+                <h3 class="post__title"><a href="https:&#x2F;&#x2F;replace-this-with-your-url.com&#x2F;root-page-1&#x2F;"></a></h3>
+            </article>
+        
+    </div>
+    <!-- Next line is meant to test inner html chars (see https://github.com/getzola/zola/issues/1152) -->
+    <p> <<< </p>
+
+    <h1 id="heading-1">Heading 1</h1>
+
+
         </div>
-        <footer>
-            <a href="https://www.getzola.org/documentation/getting-started/cli-usage/" target="_blank">Get started with Zola</a>
-        </footer>
-        <style>
-            html {
-                line-height: 1.5;
-            }
-            h1 {
-                margin-bottom: 2rem;
-            }
-            .container {
-                font-family: "sans-serif";
-                text-align: center;
-                margin-top: 20vh;
-                padding: 2rem;
-                background: #e9e9e9;
-            }
-            footer {
-                position: fixed;
-                width: 100%;
-                bottom: 1rem;
-                text-align: center;
-            }
-        </style>
+
+        <div>[current_path](/)</div>
+
+        
+    <script src="https://replace-this-with-your-url.com/scripts/hello.js"
+            integrity="sha384-AUIvMeqnIabErIxvoJon3ZJZ4N/PPHWT14ENkSqd5covWC35eFN7zRD3aJbbYfu5"></script>
+
     </body>
 </html>

@@ -1,4 +1,4 @@
-User-agent: *
+User-agent: zola
 Disallow:
 Allow: /
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://replace-this-with-your-url.com/sitemap.xml

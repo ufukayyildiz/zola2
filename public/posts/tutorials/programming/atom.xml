@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>My Integration Testing site - Programming</title>
+    <link rel="self" type="application/atom+xml" href="https://replace-this-with-your-url.com/posts/tutorials/programming/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://replace-this-with-your-url.com/posts/tutorials/programming/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2017-01-01T00:00:00+00:00</updated>
+    <id>https://replace-this-with-your-url.com/posts/tutorials/programming/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Python tutorial</title>
+        <published>2017-01-01T00:00:00+00:00</published>
+        <updated>2017-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              config@example.com (Config Author)
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://replace-this-with-your-url.com/posts/tutorials/programming/python/"/>
+        <id>https://replace-this-with-your-url.com/posts/tutorials/programming/python/</id>
+        
+        <content type="html" xml:base="https://replace-this-with-your-url.com/posts/tutorials/programming/python/">&lt;p&gt;A simple page&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Rust</title>
+        <published>2017-01-01T00:00:00+00:00</published>
+        <updated>2017-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Foo Doe
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            Bar Doe
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            Baz Doe
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://replace-this-with-your-url.com/posts/tutorials/programming/rust/"/>
+        <id>https://replace-this-with-your-url.com/posts/tutorials/programming/rust/</id>
+        
+        <summary type="html">&lt;p&gt;A simple page&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>

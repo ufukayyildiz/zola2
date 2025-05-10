@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>My Integration Testing site - Some Person</title>
+    <link rel="self" type="application/atom+xml" href="https://replace-this-with-your-url.com/podcast-authors/some-person/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://replace-this-with-your-url.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2017-01-01T00:00:00+00:00</updated>
+    <id>https://replace-this-with-your-url.com/podcast-authors/some-person/atom.xml</id>
+    <entry xml:lang="en">
+        <title>first</title>
+        <published>2017-01-01T00:00:00+00:00</published>
+        <updated>2017-01-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              config@example.com (Config Author)
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://replace-this-with-your-url.com/rebuild/first/"/>
+        <id>https://replace-this-with-your-url.com/rebuild/first/</id>
+        
+        <content type="html" xml:base="https://replace-this-with-your-url.com/rebuild/first/">&lt;h1 id=&quot;a-title&quot;&gt;A title&lt;&#x2F;h1&gt;
+</content>
+        
+    </entry>
+</feed>
