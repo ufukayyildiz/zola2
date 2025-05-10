@@ -14,5 +14,5 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-theme = "neovim"
+theme = "neovim-theme"
 custom_css = "style.css"
