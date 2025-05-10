@@ -1,4 +1,4 @@
-theme = "neovim-theme"
+theme = "sample"
 custom_css = "style.css"
 
 # The URL the site will be built for
